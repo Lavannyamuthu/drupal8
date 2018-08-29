@@ -1,0 +1,6 @@
+second_module:
+    path: /second
+    defaults :
+      _controllers : Drupal\second_module\Controller\SecondController::content
+    requirements:
+      _permission : 'access content'

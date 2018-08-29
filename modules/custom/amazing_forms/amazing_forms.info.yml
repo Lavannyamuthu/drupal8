@@ -1,0 +1,5 @@
+name: Amazing Forms
+type: module
+description: 'Demo For Drupal 8 Forms'
+package: Custom
+core : 8.x

@@ -1,0 +1,5 @@
+name: First Module
+type: My Module
+description: Say Hello World
+package: Custom
+core: 8.x

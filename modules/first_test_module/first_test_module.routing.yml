@@ -1,0 +1,6 @@
+first_test_module:
+    path: /first
+    defaults :
+      _controllers : Drupal\first_test_module\Controller\FirstTestController::content
+    requirements:
+      _permission : 'access content'
